@@ -1,4 +1,8 @@
  .titulo{
-     text-align-last: center;
+     text-align: center;
      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .menu{
+     padding: 20px;
+     background-color: #f47920;
  }
